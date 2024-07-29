@@ -1,0 +1,18 @@
+C:\1.MyFiles\Tasks\Tasks\Level 1\bin\Release\net8.0\Level 1.exe
+C:\1.MyFiles\Tasks\Tasks\Level 1\bin\Release\net8.0\Level 1.deps.json
+C:\1.MyFiles\Tasks\Tasks\Level 1\bin\Release\net8.0\Level 1.runtimeconfig.json
+C:\1.MyFiles\Tasks\Tasks\Level 1\bin\Release\net8.0\Level 1.dll
+C:\1.MyFiles\Tasks\Tasks\Level 1\bin\Release\net8.0\Level 1.pdb
+C:\1.MyFiles\Tasks\Tasks\Level 1\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\1.MyFiles\Tasks\Tasks\Level 1\obj\Release\net8.0\Level 1.csproj.AssemblyReference.cache
+C:\1.MyFiles\Tasks\Tasks\Level 1\obj\Release\net8.0\Level 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.MyFiles\Tasks\Tasks\Level 1\obj\Release\net8.0\Level 1.AssemblyInfoInputs.cache
+C:\1.MyFiles\Tasks\Tasks\Level 1\obj\Release\net8.0\Level 1.AssemblyInfo.cs
+C:\1.MyFiles\Tasks\Tasks\Level 1\obj\Release\net8.0\Level 1.csproj.CoreCompileInputs.cache
+C:\1.MyFiles\Tasks\Tasks\Level 1\obj\Release\net8.0\Level 1.sourcelink.json
+C:\1.MyFiles\Tasks\Tasks\Level 1\obj\Release\net8.0\Level 1.csproj.Up2Date
+C:\1.MyFiles\Tasks\Tasks\Level 1\obj\Release\net8.0\Level 1.dll
+C:\1.MyFiles\Tasks\Tasks\Level 1\obj\Release\net8.0\refint\Level 1.dll
+C:\1.MyFiles\Tasks\Tasks\Level 1\obj\Release\net8.0\Level 1.pdb
+C:\1.MyFiles\Tasks\Tasks\Level 1\obj\Release\net8.0\Level 1.genruntimeconfig.cache
+C:\1.MyFiles\Tasks\Tasks\Level 1\obj\Release\net8.0\ref\Level 1.dll

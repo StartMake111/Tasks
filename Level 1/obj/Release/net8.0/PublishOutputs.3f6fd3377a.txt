@@ -1,0 +1,6 @@
+C:\1.MyFiles\Tasks\Tasks\Level 1\bin\Release\net8.0\publish\Level 1.exe
+C:\1.MyFiles\Tasks\Tasks\Level 1\bin\Release\net8.0\publish\Level 1.dll
+C:\1.MyFiles\Tasks\Tasks\Level 1\bin\Release\net8.0\publish\Level 1.deps.json
+C:\1.MyFiles\Tasks\Tasks\Level 1\bin\Release\net8.0\publish\Level 1.runtimeconfig.json
+C:\1.MyFiles\Tasks\Tasks\Level 1\bin\Release\net8.0\publish\Level 1.pdb
+C:\1.MyFiles\Tasks\Tasks\Level 1\bin\Release\net8.0\publish\Newtonsoft.Json.dll

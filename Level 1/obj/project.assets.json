@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\1.MyFiles\\.NetC#\\Level 1\\Level 1.csproj",
+      "projectUniqueName": "C:\\1.MyFiles\\Tasks\\Tasks\\Level 1\\Level 1.csproj",
       "projectName": "Level 1",
-      "projectPath": "C:\\1.MyFiles\\.NetC#\\Level 1\\Level 1.csproj",
+      "projectPath": "C:\\1.MyFiles\\Tasks\\Tasks\\Level 1\\Level 1.csproj",
       "packagesPath": "C:\\Users\\start\\.nuget\\packages\\",
-      "outputPath": "C:\\1.MyFiles\\.NetC#\\Level 1\\obj\\",
+      "outputPath": "C:\\1.MyFiles\\Tasks\\Tasks\\Level 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\start\\AppData\\Roaming\\NuGet\\NuGet.Config"
