@@ -14,6 +14,11 @@ namespace Level_1
         {
             birthdays.RemoveAll(b => b.Name.Equals(name, StringComparison.OrdinalIgnoreCase));
         }
+        public void change(int index, string name, DateTime date)
+        {
+            birthdays.RemoveAt(index - 1);
+            birthdays.Insert(index - 1, new Person { Name = name, Birthday = date });
+        }
 
         public List<Person> GetTodayAndUpcomingBirthdays()
         {
